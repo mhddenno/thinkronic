@@ -2,6 +2,10 @@
 
 <h4> Check that you already have node installed </h4>
 
-`npm run build`
+- `npm i`
 
-`npm run serve`
+- `yarn install`
+
+- `npm run build`
+
+- `npm run serve`
